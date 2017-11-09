@@ -1,4 +1,4 @@
-/* TEAM */      
-Your title: Filip Mylläri
-Site: email, link to a contact form, etc. 
-Location: Kalmar, Sweden
+Chef:Filip Mylläri
+Contact: fm222hp@student.lnu.se
+Twitter: @juanjobernabeu
+From:Mönsterås, Sweden
