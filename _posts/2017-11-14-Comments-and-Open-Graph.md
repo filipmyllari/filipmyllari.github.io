@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Comments and Open Graph"
-date:   2017-11-07 10:00:42 +0100
+date:   2017-11-14 10:00:42 +0100
 categories: Blog post
 ---
 ### How did you implement comments to blog posts?
