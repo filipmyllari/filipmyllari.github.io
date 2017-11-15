@@ -11,9 +11,7 @@ Web site owners use the robot file to give instructions about their site to we r
 
 ```
 User-agent: *
-Disallow: /cgi-bin/
-Disallow: /tmp/
-Disallow: /~joe/
+Disallow: /
 ```
 
 ### Humans.txt
