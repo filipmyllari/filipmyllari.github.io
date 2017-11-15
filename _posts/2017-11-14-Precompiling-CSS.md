@@ -41,4 +41,4 @@ ul a { color: #999; }
 ul a:hover { color: #229ed3; }
 {% endhighlight %}
 
-You can see a huge difference here in both structure and how you write your code. For example here I have given $link-color: one color. So when I want to use that color again I just write $link-color: istead of writing the same color over and over again. By doing this I can also keep all my colors in the same place and really easily see which colors I use. So its much easier for later changes in the code when you normally needs to dig through your whole code.
+You can see a huge difference here in both structure and how you write your code. For example here I have given $link-color: one color. So when I want to use that color again I just write $link-color: istead of writing the same color over and over again. By doing this I can also keep all my colors in the same place and really easily see which colors I use. So its much easier for later changes in the code when you normally needs to dig through your whole code. I used this in my code so I could see which colors I have on the site and match everything together.

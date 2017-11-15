@@ -130,6 +130,7 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  background-color: rgba($color: #dacccc, $alpha: 0.7);
 }
 
 .footer-col {
@@ -181,7 +182,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  background-color: rgba($color: #d6cece, $alpha: 0.5);
+  background-color: rgba($color: #dacccc, $alpha: 0.3);
 }
 
 .page-heading {
