@@ -14,10 +14,11 @@ $text-color:       #111 !default;
 $background-color: #ecf0f1 !default;
 $brand-color:      #2a7ae2 !default;
 $header-color:     #bdc3c7 !default;
+$title-color: black;
 
 $icon-color:      darken(lightblue, 20%) !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #ffffff !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 

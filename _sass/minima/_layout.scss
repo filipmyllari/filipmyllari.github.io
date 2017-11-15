@@ -21,7 +21,10 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $title-color;
+  }
+  &:link {
+    color: $title-color;
   }
 }
 
